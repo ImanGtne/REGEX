@@ -5,7 +5,7 @@ $badSubjects = ['ba', "fihoubie"];
 
 $jeux = ["bon" => $goodSubjects, "pas bon" => $badSubjects];
 
-$regex = "/ab/";
+$regex = "/^ab/";
 ?>
 <!doctype html>
 <html lang="fr">
